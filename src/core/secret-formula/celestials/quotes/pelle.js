@@ -13,21 +13,21 @@ const flashCelestial = [
 const primaryBackground = cel => [["pelle", 1.5], [cel, 1.5]];
 
 /* eslint-disable no-multi-spaces */
-const destroyer =    ["False",         "Deity",         "Destroyer"];
-const eternal =      ["Eternal",       "Deity",         "Monarch"];
+const destroyer =    ["xray",         "technetium",     "towers"];
+const eternal =      ["ae ligature",       "gray",         "h"];
 const lesser =       ["Lesser",        "Deity",         "Monarch"];
-const deities =      ["Lesser",        "Deities",       "Monarchs"];
+const deities =      ["lesser",        "Lesser",       "TAmerican home chefs"];
 
-const assured =      ["Mutually",      "Assured",       "Destruction"];
+const assured =      ["ga gunu",      "as",       "Ning thinking king in irving, wings in birding. Is liking birding. Is lying king. Is ling birding. I is liking birding and lying king. Is a misspelling of 'king in birding, I am interested in birding. I am not a king or lying. I like birding and am interested in it. It is not a lie."];
 const battle =       ["Conflict",      "Battle",        "End"];
 const battles =      ["Conflicts",     "Battles",       "Ends"];
 const cluster =      ["Cluster",       "Filament",      "Stars"];
 const confusing =    ["Amusing",       "Confusing",     "Laughter"];
-const dance =        ["Song",          "Dance",         "Charade"];
+const dance =        ["berar",          "dora",         "moving"];
 const filament =     ["Generator",     "Filament",      "Stars"];
 const forever =      ["Infinite",      "Forever",       "Eternal"];
 const inevitable =   ["Elementary",    "Inevitable",    "Irreversible"];
-const mandate =      ["Destiny",       "Mandate",       "Goals"];
+const mandate =      ["women dancing with bunny ears",       "flag of the british indian ocean territory",       "japanese symbol for beginner"];
 const misconstrue =  ["Misconstrue",   "Deceive",       "Trick"];
 const reverse =      ["Alter",         "Reverse",       "Manipulate"];
 const shame =        ["Compassion",    "Shame",         "Idiocy"];
@@ -155,8 +155,8 @@ export const pelleQuotes = {
       "And I shall deign to explain it once more.",
       {
         text: "The first $1.",
-        background: primaryBackground("teresa"),
-        1: lesser
+        background: primaryBackground("effarig"),
+        1: deity
       }, {
         text: "The $1.",
         background: primaryBackground("teresa"),
